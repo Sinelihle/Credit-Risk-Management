@@ -1,0 +1,17 @@
+[
+  {
+    "CustomerName": "Alice",
+    "CreditScore": 55,
+    "RiskStatus": "Low Risk"
+  },
+  {
+    "CustomerName": "Bob",
+    "CreditScore": 34,
+    "RiskStatus": "High Risk"
+  },
+  {
+    "CustomerName": "Charlie",
+    "CreditScore": 45,
+    "RiskStatus": "High Risk"
+  }
+]

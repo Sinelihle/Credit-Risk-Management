@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qPVGrncjm+FhVxwMnFGVcnwG631lPQl4cEfKpaVwwHxeIrn9RwEeA9a59mT4h+DRo496HjRH2mlU9fypQIf5jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sinelihle\\Desktop\\WebAPIDemo\\CreditScoreManagement\\CreditRiskManagement\\CreditRiskManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sinelihle\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\sinelihle\\.nuget\\packages\\xunit.assert\\2.9.2\\xunit.assert.2.9.2.nupkg.sha512",
+    "C:\\Users\\sinelihle\\.nuget\\packages\\xunit.extensibility.core\\2.9.2\\xunit.extensibility.core.2.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

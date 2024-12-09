@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditRiskManagement", "CreditRiskManagement.csproj", "{B33093B0-1184-4C48-A4BA-BA448F51449B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{0A77BA1B-9084-4EE4-BA63-BB09E6FD94D8}"
+	ProjectSection(SolutionItems) = preProject
+		Customer.cs = Customer.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{E33A4173-8BFE-4FB2-B31F-22A5F9087F45}"
+	ProjectSection(SolutionItems) = preProject
+		CreditScoreService.cs = CreditScoreService.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{C4DF0B00-C92B-4191-8F78-EACD111E0E2D}"
+	ProjectSection(SolutionItems) = preProject
+		CreditScoreServiceTests.cs = CreditScoreServiceTests.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B33093B0-1184-4C48-A4BA-BA448F51449B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33093B0-1184-4C48-A4BA-BA448F51449B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33093B0-1184-4C48-A4BA-BA448F51449B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33093B0-1184-4C48-A4BA-BA448F51449B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1DE9CB6-D389-472A-AAF1-4314F3B792AA}
+	EndGlobalSection
+EndGlobal
